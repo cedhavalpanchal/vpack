@@ -1,0 +1,79 @@
+#places-map {background: #fff;padding: 0 0 60px 0;position: relative;margin-top: 0;}
+#places-map img {height: auto;position: relative;width: 100%;z-index: 1;}
+.secondary-page #places-map .content {margin: 0;position: relative;}
+
+@media (min-width:60em) {
+    .secondary-page #places-map .content {margin: 0 auto;}
+}
+
+#places-map .map {position: relative;max-width: 100%;margin-left: auto;margin-right: auto;}
+#places-map .map-pins {position: absolute;height: 100%;top: 0;left: 0;width: 100%;}
+#places-map .map-location-marker {background: url(../images/map-pin.png) no-repeat;cursor: pointer;position: absolute;height: 1.875em;margin-top: -1.875em;margin-left: -.7857142857em;width: 1.3125em;z-index: 3;opacity: 1;background-size: contain;padding-top: 25px;text-decoration: none;color: #fff;}
+
+#places-map .marker-USA {left: 13%;top: 23%;-webkit-animation-delay: .1s;animation-delay: .1s;}
+#places-map .marker-jordan {left: 72%;top: 10%;-webkit-animation-delay: 0.5s;animation-delay: 0.5s;}
+#places-map .marker-uzbekistan {left: 83%;top: 11%;-webkit-animation-delay: 0.7s;animation-delay: 0.7s;}
+#places-map .marker-romaina {left: 52%;top: 22%;-webkit-animation-delay: 0.9s;animation-delay: 0.9s;}
+#places-map .marker-iraq {left: 59.5%;top: 29%;-webkit-animation-delay: 1.1s;animation-delay: 1.1s;}
+#places-map .marker-morocco {left: 46%;top: 35%;-webkit-animation-delay: 1.3s;animation-delay: 1.3s;}
+#places-map .marker-israel {left: 57.5%;top: 35%;-webkit-animation-delay: 1.5s;animation-delay: 1.5s;}
+#places-map .marker-algeria {left: 49.5%;top: 42%;-webkit-animation-delay: 1.7s;animation-delay: 1.7s;}
+#places-map .marker-malawi {left: 57.2%;top: 43%;-webkit-animation-delay: 2.0s;animation-delay: 2.0s;}
+#places-map .marker-pakistan {left: 71%;top: 41%;-webkit-animation-delay: 2.2s;animation-delay: 2.2s;}
+#places-map .marker-nepal {left: 76%;top: 40%;-webkit-animation-delay: 2.4s;animation-delay: 2.4s;}
+#places-map .marker-UAE {left: 61%;top: 47%;-webkit-animation-delay: 2.6s;animation-delay: 2.6s;}
+#places-map .marker-india {left: 71.5%;top: 48%;-webkit-animation-delay: 2.8s;animation-delay: 2.8s;}
+#places-map .marker-bangladesh {left: 80.2%;top: 42%;-webkit-animation-delay: 3.0s;animation-delay: 3.0s;}
+#places-map .marker-srilanka {left: 73.2%;top: 53%;-webkit-animation-delay: 3.2s;animation-delay: 3.2s;}
+#places-map .marker-ghana {left: 44%;top: 54%;-webkit-animation-delay: 3.4s;animation-delay: 3.4s;}
+#places-map .marker-nigeria {left: 47%;top: 54%;-webkit-animation-delay: 3.6s;animation-delay: 3.6s;}
+#places-map .marker-uganda {left: 54%;top: 60%;-webkit-animation-delay: 3.8s;animation-delay: 3.8s;}
+#places-map .marker-kenya {left: 60.5%;top: 56%;-webkit-animation-delay: 4.0s;animation-delay: 4.0s;}
+#places-map .marker-congo {left: 52%;top: 64.5%;-webkit-animation-delay: 4.2s;animation-delay: 4.2s;}
+#places-map .marker-tanzania {left: 57%;top: 70.5%;-webkit-animation-delay: 4.4s;animation-delay: 4.4s;}
+#places-map .marker-zambia {left: 54%;top: 75.5%;-webkit-animation-delay: 4.6s;animation-delay: 4.6s;}
+#places-map .marker-southafrica {left: 53.5%;top: 83.5%;-webkit-animation-delay: 4.8s;animation-delay: 4.8s;}
+
+#page-places {position: relative;}
+#map-info {color: #fff;position: absolute;top: -1.5625em;left: 50%;margin-left: -7.8125em;padding: 5px 10px;width: auto;z-index: 10;background: #545962;}
+#map-info p {margin: 0;font-size: 12px;color: #fff;}
+#map-info .close-btn {cursor: pointer;display: block;position: absolute;right: -12px;top: -12px;background: #fff;z-index: 111;padding: 5px;line-height: 9px;border: 1px solid #ddd;border-radius: 50%;color: #000;}
+
+@media (min-width:30em) {
+    #map-info {top: 50%;margin-top: -8.875em;}
+}
+
+@media (min-width:60em) {
+    #map-info {margin-left: -8.875em;width: auto;}
+}
+
+@media (min-width:48em) {
+    .js #places-map .map-location-marker {visibility: hidden;}
+    .js #places-map .map-location-marker.bounceInDown {visibility: visible;}
+    #map-info {margin-left: 0;margin-top: 0;}
+    #map-info:before {content: "";display: block;width: 0;height: 0;border-style: solid;border-width: 5px 10px 5px 0;border-color: transparent #545962 transparent transparent;position: absolute;left: -10px;top: 8px;}
+    #map-info.taiyo:before, #map-info.unigen:before {border-width: 13px 0 13px 16px;border-color: transparent transparent transparent #545962;left: -15px;transform: rotate(180deg);}
+    #map-info.USA {top: 18%;left: 15.5%}
+    #map-info.jordan {top: 5%;left: 74%}
+    #map-info.uzbekistan {top: 6%;left: 85%}
+    #map-info.romaina {top: 17%;left: 54%}
+    #map-info.iraq {top: 24%;left: 62%}
+    #map-info.morocco {top: 30%;left: 48%}
+    #map-info.israel {top: 30%;left: 59.5%}
+    #map-info.algeria {top: 37%;left: 51.5%}
+    #map-info.malawi {top: 39%;left: 59.5%}
+    #map-info.pakistan {top: 36%;left: 73%}
+    #map-info.nepal {top: 35%;left: 78%}
+    #map-info.UAE {top: 42%;left: 63%}
+    #map-info.india {top: 43%;left: 73.5%}
+    #map-info.bangladesh {top: 37%;left: 82.5%}
+    #map-info.srilanka {top: 48%;left: 75.5%}
+    #map-info.ghana {top: 49%;left: 46%}
+    #map-info.nigeria {top: 49%;left: 49%}
+    #map-info.uganda {top: 55%;left: 56%}
+    #map-info.kenya {top: 51%;left: 63%}
+    #map-info.congo {top: 59%;left: 54.5%}
+    #map-info.tanzania {top: 65%;left: 59%}
+    #map-info.zambia {top: 70.5%;left: 56.2%}
+    #map-info.southafrica {top: 78%;left: 56%}
+}
