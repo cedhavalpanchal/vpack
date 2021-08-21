@@ -85,7 +85,7 @@ main{margin-top: 74px; }
 /*Home Solutions CSS*/
 .section-title{font-size: 32px;margin-bottom: 35px;letter-spacing: 5px;display: inline-block;position: relative;padding-bottom: 15px;text-transform: uppercase;}
 .section-title:after{content:'';width:60%;height:3px;margin:0 auto;position: absolute;bottom:0;left:0;right: 0;background: #fe0000}
-#solution-carousel .owl-item h4{background-color: #000;color:#fff;font-size: 18px;padding:15px 0;text-align: center;font-weight: 400;line-height: 20px;min-height: 70px;}
+#solution-carousel .owl-item h4{background-color: #000;color:#fff;font-size: 18px;padding:16px 0;text-align: center;font-weight: 400;line-height: 35px;min-height: 68px;}
 .owl-theme .owl-dots .owl-dot span{border-radius: 0;}
 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span{background-color: #fe0000}
 #solution-carousel.owl-carousel .owl-item img, .app-product .owl-carousel .gallery_product img {background: #f4f4f4;}

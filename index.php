@@ -16,44 +16,44 @@
                 <div id='solution-carousel' class="owl-carousel owl-theme">
                                         <div class="item">
                         <a href="http://npmmachinery.com/product/Washing/Water-Wash/Rotary-Bottle-Washing">
-                            <img src="http://npmmachinery.com/public/uploads/rotary-bottle-washing.png">
-                            <h4>Rotary Bottle Washing</h4>
+                            <img src="images/vpack/machinery/photo_11.jpg">
+                            <h4>Bottel Washing Machine</h4>
                         </a>
                     </div>
                                         <div class="item">
                         <a href="http://npmmachinery.com/product/Washing/Water-Wash/Auto-High-Speed-Rotary-Washing">
-                            <img src="http://npmmachinery.com/public/uploads/auto-high-speed-rotary-washing.png">
-                            <h4>Auto High Speed Rotary Washing</h4>
+                            <img src="images/vpack/machinery/photo_14.jpg">
+                            <h4>Cleaning Machine</h4>
                         </a>
                     </div>
                                         <div class="item">
                         <a href="http://npmmachinery.com/product/Washing/Air-Vacuum-Cleaning/Auto.-Vertical-Airjet-Cleaning">
-                            <img src="http://npmmachinery.com/public/uploads/auto-vertical-airjet-cleaning.png">
-                            <h4>Auto. Vertical Airjet Cleaning</h4>
+                            <img src="images/vpack/machinery/photo_16.jpg">
+                            <h4>Filling Machine</h4>
                         </a>
                     </div>
                                         <div class="item">
                         <a href="http://npmmachinery.com/product/Washing/Air-Vacuum-Cleaning/Auto.-Rotary-Airjet-Cleaning">
-                            <img src="http://npmmachinery.com/public/uploads/auto-rotary-airjet-cleaning.png">
-                            <h4>Auto. Rotary Airjet Cleaning</h4>
+                            <img src="images/vpack/machinery/photo_31.jpg">
+                            <h4>Capping Machine</h4>
                         </a>
                     </div>
                                         <div class="item">
                         <a href="http://npmmachinery.com/product/Liquid-Filling/Auto-Version/Linear-Piston-Filler">
-                            <img src="http://npmmachinery.com/public/uploads/linear-piston-filler.png">
-                            <h4>Linear Piston Filler</h4>
+                            <img src="images/vpack/machinery/photo_22.jpg">
+                            <h4>Labeling Machine</h4>
                         </a>
                     </div>
                                         <div class="item">
                         <a href="http://npmmachinery.com/product/Liquid-Filling/Auto-Version/Monoblock-Rotary-Piston-Filler-Cum-Rotary-Capper">
-                            <img src="http://npmmachinery.com/public/uploads/monoblock.png">
-                            <h4>Monoblock Rotary Piston Filler Cum Rotary Capper</h4>
+                            <img src="images/vpack/machinery/photo_18.jpg">
+                            <h4>Powder Filling Machine</h4>
                         </a>
                     </div>
                                         <div class="item">
                         <a href="http://npmmachinery.com/product/Cartoning/Cartoning/Continuous-Motion-Cartonators">
-                            <img src="http://npmmachinery.com/public/uploads/continuous-motion-cartonators.png">
-                            <h4>Continuous Motion Cartonators</h4>
+                            <img src="images/vpack/machinery/photo_10.jpg">
+                            <h4>Blocks</h4>
                         </a>
                     </div>
                                 </div>
@@ -117,8 +117,7 @@
                                     <div class="industry-overlay child-one">
                                         <h4>Pharmaceuticals</h4>
                                         <div class='industry-inner-overlay'>
-                                            <!-- <h4>As the world embraces healthy living and modern</h4> -->
-                                            <p>As the world embraces modern medical care, the pharmaceuticals segment is witnessing rapid growth. NPM caters to this ever evolving requirement by manufacturing world-class quality machines.</p>
+                                            <p>As the world embraces modern medical care, the pharmaceuticals segment is witnessing rapid growth. V-Pack caters to this ever evolving requirement by manufacturing world-class quality machines.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -134,7 +133,7 @@
                                                 <h4>Edible Oil / Lube Oil</h4>
                                                 <div class='industry-inner-overlay'>
                                                     <!-- <h4>As the world embraces healthy living and modern</h4> -->
-                                                    <p>Lube and Edible Oil represent different segments and have specific requirements for packaging. NPM meets these requisite standards and compliances with special materials in a special manner.</p>
+                                                    <p>Lube and Edible Oil represent different segments and have specific requirements for packaging. V-Pack meets these requisite standards and compliances with special materials in a special manner.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -148,7 +147,7 @@
                                                 <h4>Home Care</h4>
                                                 <div class='industry-inner-overlay'>
                                                     <!-- <h4>As the world embraces healthy living and modern</h4> -->
-                                                    <p>NPM offers a broad product range for many different Home Care applications. The entire range is manufactured with efficiency and flexibility under the supervision of efficient quality controllers.</p>
+                                                    <p>V-PACK offers a broad product range for many different Home Care applications. The entire range is manufactured with efficiency and flexibility under the supervision of efficient quality controllers.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -165,7 +164,7 @@
                                                 <h4>Cosmetics</h4>
                                                 <div class='industry-inner-overlay'>
                                                     <!-- <h4>As the world embraces healthy living and modern</h4> -->
-                                                    <p>Packaging is available for a range of products including cream jars and shampoo bottles among others. NPM caters to the requirements by following international manufacturing standards.</p>
+                                                    <p>Packaging is available for a range of products including cream jars and shampoo bottles among others. V-PACk caters to the requirements by following international manufacturing standards.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -179,7 +178,7 @@
                                                 <h4>Agrochemicals</h4>
                                                 <div class='industry-inner-overlay'>
                                                     <!-- <h4>As the world embraces healthy living and modern</h4> -->
-                                                    <p>Agro-chemicals plays a vital role in agriculture by enhancing the produce. A keen eye for market developments and focus on innovation makes NPM becoming a forerunner in this segment.</p>
+                                                    <p>Agro-chemicals plays a vital role in agriculture by enhancing the produce. A keen eye for market developments and focus on innovation makes V-PACK becoming a forerunner in this segment.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -192,77 +191,6 @@
                 </div>
             </div>
         </section>
-
-        <!-- <section id='home-news' class="text-center">
-            <div class="container">
-                <h2 class="section-title">News and events</h2>
-                <div class="row">
-                    <div class="col-lg-4 offset-lg-4 col-md-6 offset-md-3">
-                        <div id='news-carousel' class="owl-carousel owl-theme text-left">
-                            <div class="item">
-                                <img src='public/images/P-mec.png'>
-                                <div class="news-overlay">
-                                    <h4>P-mec</h4>
-                                    <p>26 - 28 November 2019<br> India Expo Centre, Greater Noida,<br> Delhi NCR, India.<br> Hall No: 9, Stall No: B-19</p>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <img src='public/images/Pharmac-Logo.png'>
-                                <div class="news-overlay">
-                                    <h4>PHARMAC INDIA</h4>
-                                    <p>07 - 09 November 2019<br> Gujarat University Convention Centre<br> Ahmedabad, Gujarat.<br> Stall No: B-81</p>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <img src='http://npmmachinery.com/public/images/Asia-Phama-Expo.png'>
-                                <div class="news-overlay">
-                                    <h4>ASIA PHAMA EXPO 2020</h4>
-                                    <p>28-29 Feb, 1st March, 2020<br> Dhaka, Bangladesh<br> Stall No. : B 103</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section> -->
-
-        <!-- <section id='home-testi' class="text-center">
-            <div class="container">
-                <h2 class="section-title">Human Resources</h2>
-                <p class="section-info">Kick start your careers with NPM. Explore limitless opportunities.</p>
-                <div class="testi-wrap">
-                    <img src="public/images/testi-bg.jpg">
-                    <div id='testi-carousel' class="owl-carousel owl-theme text-left">
-                        <div class="item">
-                            <img src='public/images/testi-profile.png'>
-                            <div class="testi-overlay">
-                                <h4>What our people say</h4>
-                                <p>“V-Pack Machinery is on Amazing journey of transformation”</p>
-                                <span>- Sudeep, Marketing Manager</span>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <img src='public/images/testi-profile.png'>
-                            <div class="testi-overlay">
-                                <h4>What our people say</h4>
-                                <p>“V-Pack Machinery is on Amazing journey of transformation”</p>
-                                <span>- Sudeep, Marketing Manager</span>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <img src='public/images/testi-profile.png'>
-                            <div class="testi-overlay">
-                                <h4>What our people say</h4>
-                                <p>“V-Pack Machinery is on Amazing journey of transformation”</p>
-                                <span>- Sudeep, Marketing Manager</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <h4 class="career-title">Find right opportunities for you</h4>
-                <a href="career" class="npm-btn">EXPLORE CAREERS</a>
-            </div>
-        </section> -->
 
         <section id="testimonial" class="text-center">
             <div class="container">
